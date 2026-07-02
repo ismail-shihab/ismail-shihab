@@ -6,8 +6,8 @@ I'm a CSE undergraduate and freelance mobile/web developer building apps with Fl
 
 </div>
 
-- 🔭 Currently working on: client projects in Flutter & web development
-- 🌱 Currently learning: advanced mobile app architecture
+- 🟢 Currently available for new freelance projects
+- 🌱 Currently learning: Microprocessors, Microcontrollers & Assembly Language
 - 💼 Open to: freelance mobile & web development projects
 - 🐝 Founder of [Bees of Betterment](https://www.facebook.com/BeesofBetterment), a community initiative focused on giving back
 
