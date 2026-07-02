@@ -12,10 +12,10 @@ I'm a CSE undergraduate and freelance mobile/web developer building apps with Fl
 - 🐝 Founder of [Bees of Betterment](#), a community initiative focused on giving back
 
 ### 📫 Connect with me
-[![Gmail](https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailshihab2005@gmail.com)
-[![Facebook](https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mohammad.Ismail.Shihab)
+[![Gmail](https://cdn.simpleicons.org/[Gmail]/[#EA4335])](mailto:ismailshihab2005@gmail.com)
+[![Facebook](https://cdn.simpleicons.org/[Facebook]/[#0866FF])](https://www.facebook.com/Mohammad.Ismail.Shihab)
 [![LinkedIn](https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ismail-shihab/)
-[![Fiverr](https://img.shields.io/badge/-%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/ismail_shihab)
+[![Fiverr]((https://cdn.simpleicons.org/[Fiverr]/[#1DBF73]))](https://fiverr.com/ismail_shihab)
 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
