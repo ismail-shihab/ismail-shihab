@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Shihab 👋
+### Hi there, I'm Mohammad Ismail Shihab 👋
 
 I'm a CSE undergraduate and freelance mobile/web developer building apps with Flutter and modern web stacks.
 
