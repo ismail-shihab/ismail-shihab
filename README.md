@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Mohammad Ismail Shihab 👋
+### Hi there, I'm Shihab 👋
 
 I'm a CSE undergraduate and freelance mobile/web developer building apps with Flutter and modern web stacks.
 
@@ -12,17 +12,13 @@ I'm a CSE undergraduate and freelance mobile/web developer building apps with Fl
 - 🐝 Founder of [Bees of Betterment](#), a community initiative focused on giving back
 
 ### 📫 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailshihab2005@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mohammad.Ismail.Shihab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ismail-shihab/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/ismail_shihab)
+[![Gmail](https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailshihab2005@gmail.com)
+[![Facebook](https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mohammad.Ismail.Shihab)
+[![LinkedIn](https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ismail-shihab/)
+[![Fiverr](https://img.shields.io/badge/-%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/ismail_shihab)
 
 ### 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail-shihab&show_icons=true&theme=tokyonight)
